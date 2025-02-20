@@ -1,0 +1,4 @@
+curses --> requires installment
+queue --> inbuilt
+time --> inbuilt
+sys --> inbuilt
