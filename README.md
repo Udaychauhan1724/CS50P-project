@@ -1,12 +1,10 @@
 # BFS Maze Traversal
-#### Video Demo: (URL of your video demonstration)
+#### Video Demo: https://www.youtube.com/watch?v=klB4oY9OCJM
 #### Description: This project implements a Breadth-First Search (BFS) algorithm to find the shortest path between the start and end points in a maze. Here, '#' denotes a wall, ' ' represents a traversable path, 'O' is the starting point, and 'X' is the target or end point.
 
 <p align="center">
   <img src="intro.gif" alt="CS50P Demo" />
 </p>
-
-Watch the demo: https://www.youtube.com/watch?v=klB4oY9OCJM
 
 The project consists of the following files:
 
